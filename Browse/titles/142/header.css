@@ -1,0 +1,100 @@
+.header {
+	height: 77px;
+	width: 100%;
+	background-color: #292828 ;
+	margin: 0;
+}
+
+.header--navbar {
+	width: 100%;
+	height: 80px ;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header--navbar__logo__title {
+	font-size: 40px ;
+	font-family: 'Nunito Sans', sans-serif;
+	color: rgb(218, 0, 0); ;
+}
+
+.header--navbar__menu__link {
+	text-decoration: none;
+	font-family: 'Fira Sans', sans-serif;
+	margin-left: 40px;
+}
+
+#maRecherche {
+	border-color: rgb(176,176,176);
+	cursor: pointer;
+	border-radius: 15px;
+}
+
+
+#search {
+	border-radius: 30px;
+	border: 2px solid #4b4b4b ;
+}
+
+#button {
+            background-color: aqua;
+            border: 0px solid black;
+            height: 30px;
+            border-radius: 30px;
+            cursor: pointer;
+        }
+
+
+
+
+
+#searchbox {
+    background: url(http://3.bp.blogspot.com/-g-zH25_DoxI/VD1BuatkgII/AAAAAAAAAgc/00hxspfvv3s/s1600/searchbar.png) no-repeat;
+    width: 208px;
+    height: 29px;
+}
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+input:focus:-moz-placeholder {
+    color: transparent;
+}
+input:focus::-moz-placeholder {
+    color: transparent;
+}
+#searchbox input {
+    outline: none;
+}
+#searchbox input[type= »text »] {
+    background: transparent;
+    margin: 3px 0px 0px 20px;
+    padding: 5px 0px 5px 0px;
+    border-width: 0px;
+    font-family: « Arial Narrow », Arial, sans-serif;
+    font-size: 12px;
+    color: #828282;
+    width: 70%;
+    display: inline-table;
+    vertical-align: top;
+}
+#button-submit {
+    background: url(http://4.bp.blogspot.com/-OcDQ6Z9ojlQ/VD1KnwJjFOI/AAAAAAAAAgs/cu_pKN6bpL8/s1600/magnifier.png) no-repeat;
+    border-width: 0px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-top: 4px;
+    width: 21px;
+    height: 22px;
+}
+#button-submit:hover {
+    background: url(http://2.bp.blogspot.com/-4-xFDFGKJrA/VD1Kn04f9TI/AAAAAAAAAgw/2ta84QY1x9A/s1600/magnifier-hover.png) no-repeat;
+}
+#button-submit:active {
+    background: url(http://2.bp.blogspot.com/-4-xFDFGKJrA/VD1Kn04f9TI/AAAAAAAAAgw/2ta84QY1x9A/s1600/magnifier-hover.png) no-repeat;
+    outline: none;
+}
+#button-submit::-moz-focus-inner {
+    border: 0;
+}

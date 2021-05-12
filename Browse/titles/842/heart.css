@@ -1,0 +1,320 @@
+.heartbox--navbar__txt_h3 {
+	font-family: 'Fira Sans', sans-serif;
+	padding :0;
+	margin: 0;
+	align-items: center; ;
+	color: #fff; 
+  font-size: 12px;
+}
+
+.video {
+  
+}
+
+span {
+    font-family: 'Nunito', sans-serif;
+    color: #BFBF ;
+}
+
+
+.nouveaut {
+	border-left: 7px solid red;
+	color: rgb(101,101,101);
+  background-color: #1b1b1b;
+	font-family:  'Nunito Sans', sans-serif ;
+	font-size: 31px ;
+}
+
+path {
+	z-index: -1 ;
+}
+
+.collumn {
+	float: left;
+	width: 33,33% ;
+	padding: 5px ;
+}
+
+
+.row {
+	content: "";
+    display: table;
+    clear: both;
+}
+
+
+.heartbox--navbar__img {
+	display: inline-block;
+	float: left;
+	margin: 10px ;
+	border-radius: 15px;
+}
+
+
+.image1 {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+
+.image2 {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+
+.image3 {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.text3 {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+.text2 {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+.text1 {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.margin2 {
+  margin: 20px ;
+}
+
+button {
+	direction: right ;
+}
+
+.heartbox {
+  background-color: #1b1b1b;
+}
+
+.heartbox2 {
+  background-color: #1b1b1b ;
+}
+
+
+.seetrait {
+
+   border-left: 7px solid red;
+   color: rgb(101,101,101);
+   background-color: #1b1b1b;
+   font-family:  'Nunito Sans', sans-serif ;
+   font-size: 31px ;
+
+ }
+
+ .nouveaut2 {
+  border-left: 7px solid red;
+  color: rgb(101,101,101);
+  background-color: #1b1b1b;
+  font-family:  'Nunito Sans', sans-serif ;
+  font-size: 31px ;
+}
+
+.description {
+  z-index: -1 ;
+ font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.synopsis {
+  font-family: 'Nunito Sans' , sans-serif ;
+  color: rgb(184,184,184);
+}
+
+.s {
+  font-family: 'Nunito Sans' , sans-serif ;
+  color: rgb(210, 210, 210);
+}
+
+.margin {
+  margin: 70px ;
+}
+
+.margin2 {
+  margin: 100px ;
+}
+
+.h2__navbar--all {
+        font-family: 'Nunito Sans' , sans-serif ;
+        color: #fff;
+
+      }
+      .margin {
+        margin: 30px ;
+      }
+      .img-navbar__stream {
+        height: 1080px; 
+        width: 1920px ;
+      }
+.div-categoryContainer {
+
+    box-sizing: border-box;
+    margin: 10px auto 10px;
+    padding: 10px;
+    width: 80%; min-height: 300px;
+
+   font-family: sans-serif;
+    font-size: 1em;
+    color: #333;
+
+   background-color: #1b1b1b;
+}
+
+.clearfix{
+  margin: 0, padding 0;
+  width: 0; height: 0;
+}
+.picture2{
+  border: none;
+  float: left;
+  margin-left:  40px;
+
+
+}
+.fonts {
+  font-family: 'Nunito Sans' , sans-serif; 
+  color: #fff ;
+}
+
+.new_player__selector {
+            height: 30px;
+            margin: 0;
+            padding: 0;
+            align-items: center;
+      }
+      .all {
+        align-items: center;
+
+      }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+.newspaper {
+  column-count: 3;
+  column-gap: 40px;
+}
+.consultation {
+  font-family:  'Fira Sans', sans-serif;
+  color: #fff; 
+}
+
+
+.episode-list {
+  height: 1358 px;
+  width: 2748 px ;
+}
+
+figcaption {
+    background-color: #4f4f4f ;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 1px;
+    text-align: center;
+    width: 300px ;
+}
+
+
+.media-body {
+   
+  }
+
+
+.titles {
+   font: italic smaller sans-serif;
+   color: red ;
+   display: flex;
+   flex-direction: left ;
+}
+
+.fonts2 {
+  font-family:  'Fira Sans', sans-serif;
+  color: blue ;
+}
+
+.container25 {
+  width: 95%;
+  margin: auto; 
+    position: relative;
+   color: rgb(125,125,125);
+}
+
+.margin5865298529856659popubads {
+
+ margin: 150px ;
+
+}
+
+#selecthdsw {
+  font-size: .9rem;
+    padding: 2px ;
+}
+
+.jq-selectbox__select {
+    height: 29px;
+    padding: 0 45px 0 10px;
+    background: url(../images/select_bg.png) repeat-x;
+    color: #333;
+    font: 14px/30px Arial,sans-serif;
+  }
+
+  .teek {
+      
+  }
+.container544152 {
+
+}
+
+.Tweet {
+  color: green; 
+  font-family: 'Nunito Sans' sans-serif ;
+}

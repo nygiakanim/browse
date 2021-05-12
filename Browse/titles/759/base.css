@@ -1,0 +1,57 @@
+
+html{
+	background-color: #1b1b1b;
+	margin: auto;
+	padding: auto;
+}
+
+
+a {
+	text-decoration:none;
+	font-family: 'Nunito Sans' , sans-serif;
+	color: rgb(0,0,0);
+}
+
+.a2 {
+    color: rgb(52, 62, 207); ;
+
+}
+.container {
+	width: 95%;
+	margin: auto; 
+    position: relative;
+   color: rgb(129,129,129);
+}
+
+
+.container3 {
+	width: 50% ;
+	margin: auto;
+	position: relative;
+}
+
+
+.esp1 {
+	border: none;
+	color: #fff;
+	padding: 10px 29px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 12px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.footer--navbar {
+	width: 1332px; 
+    height: 80px ;
+}
+
+
+
+.espace {
+	flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

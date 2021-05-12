@@ -1,0 +1,21 @@
+
+#cercle {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #eababa;
+    align-items: center;
+}
+
+.containerucxytgyuchh{
+	width: 5%;
+  margin: auto; 
+    position: relative;
+   color: rgb(125,125,125);
+}
+   
+
+.tweet {
+	font-family: 'Nunito Sans' sans-serif;
+	color: #fff ;
+}
