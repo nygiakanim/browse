@@ -1,2 +1,2 @@
-# nygiakanime
-site de streaming de qualité
+# browse
+ site de straming en préparation #BETA
